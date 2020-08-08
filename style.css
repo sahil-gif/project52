@@ -1,0 +1,37 @@
+h1{
+    color:whitesmoke ;
+    
+    background-color:black
+    
+}
+*{
+    border:solid ;
+    background-color:greenyellow	;
+}
+.header{
+    background-color:	#0000FF;
+    display : flex ;
+    justify-content: space-between ;
+
+}
+.grid{
+    display : flex ;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color:black
+}
+.site-description{
+    display : flex ;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color:	rgb(128,128,128);
+}
+.footer{
+    display: flex;
+    justify-content:flex-end;
+    background-color:		#FF0000;
+}
+p.h2{
+    text-align:center;
+
+}
